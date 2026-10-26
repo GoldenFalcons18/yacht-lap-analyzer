@@ -2,6 +2,8 @@
 
 上下2マークを回るヨット練習のGPXを読み込み、周回全体・指定区間・地図上で選んだ地点を比較するブラウザーアプリです。
 
+公開アプリ: https://goldenfalcons18.github.io/yacht-lap-analyzer/
+
 ## 起動
 
 index.html をブラウザーで開きます。インストールやサーバーは不要です。GitHub Pagesに配置して公開できます。
